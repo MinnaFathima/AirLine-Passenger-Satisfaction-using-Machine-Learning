@@ -86,7 +86,7 @@ This project uses ML techniques to:
    ---
    
 
-📌 # Future Improvements
+📌 ##Future Improvements
 
 Hyperparameter tuning for better accuracy
 
