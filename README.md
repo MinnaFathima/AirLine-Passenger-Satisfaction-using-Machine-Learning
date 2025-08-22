@@ -73,8 +73,8 @@ This project uses ML techniques to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Airline-Passenger-Satisfaction.git
-   cd Airline-Passenger-Satisfaction
+   git clone https://github.com/MinnaFathima/AirLine-Passenger-Satisfaction-using-Machine-Learning.git
+   cd AirLine-Passenger-Satisfaction-using-Machine-Learning
 
 2. Install dependencies:
    pip install -r requirements.txt
@@ -86,7 +86,7 @@ This project uses ML techniques to:
    ---
    
 
-📌 ##Future Improvements
+📌 Future Improvements
 
 Hyperparameter tuning for better accuracy
 
